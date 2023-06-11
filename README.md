@@ -9,8 +9,8 @@
 
 _Please be noticed, that violating Codewars ToS might lead to the termitation of your Codewars' account._
 
-## My solutions for Codewars' Kata https://www.codewars.com
+## My solutions for Codewars' Kata https://www.codewars.com solved in Dart language
 
 ### 8 kyu
 
-* [(8 kyu) You Can't Code Under Pressure #1](<8kyu/(8%20kyu)%20You%20Cant%20Code%20Under%20Pressure%201.dart>)
+- [You Can't Code Under Pressure #1](<8%20kyu/You%20Cant%20Code%20Under%20Pressure%201.dart>)
