@@ -13,4 +13,5 @@ _Please be noticed, that violating Codewars ToS might lead to the termitation of
 
 ### 8 kyu
 
-- [You Can't Code Under Pressure #1](<8%20kyu/You%20Cant%20Code%20Under%20Pressure%201.dart>)
+- [Well of Ideas - Easy Version](<8%20kyu/%20Well%20of%20Ideas%20-%20Easy%20Version.dart>)
+- [You Can't Code Under Pressure #1](<8%20kyu/You%20Can't%20Code%20Under%20Pressure%20%231.dart>)
