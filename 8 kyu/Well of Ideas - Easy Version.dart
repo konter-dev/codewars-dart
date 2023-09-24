@@ -48,9 +48,14 @@ String well(List<String> x) {
 }
 
 // 4. Coding golf
-String well(List<String> x) => x.where((i) => i == 'good').length == 0
-    ? 'Fail!'
-    : x.where((i) => i == 'good').length > 0 &&
-            x.where((i) => i == 'good').length < 3
-        ? 'Publish!'
-        : 'I smell a series!';
+String well(List<String> x) {
+  switch (x.where((idea) => idea == 'good').toList().length) {
+    case 0:
+      return 'Fail!';
+    case 1:
+    case 2:
+      return 'Publish!';
+    default:
+      return 'I smell a series!';
+  }
+}
